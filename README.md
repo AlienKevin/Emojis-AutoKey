@@ -4,7 +4,7 @@ The easiest and quickest🚀 way to insert emojis on Linux🐧.
 # Functionalities
 Insert any Unicode emojis by typing :emoji_name: and Emojis-AutoKey automatically replace them with the emoji.
 e.g. `:smile:` => 😄, `:moon:` => 🌔, [1480+ more emojis](https://unicodey.com/emoji-data/table.htm)
-Emojis-AutoKey works in Google Chrome search bar, text editors like gedit, address bar on top of the File Explorer.
+Emojis-AutoKey works in text editors like gedit, address bar on top of the File Explorer.
 Emojis-AutoKey does *not* work in the Terminal and search bar of "Show Applications"
 
 # Installation
