@@ -16,6 +16,12 @@ Emojis-AutoKey does *not* work in the Terminal and search bar of "Show Applicati
 5. Quit AutoKey by pressing <kbd>Ctrl</kbd>+<kbd>Q</kbd> then restart it
 6. Start using Emojis-AutoKey
 
+# build
+1. Install [AutoKey](https://github.com/autokey/autokey#installation) first
+2. Edit the `Emojis.python` file and replace folder name in the line `folder = engine.get_folder("My Phrases")` with your own and change the `json_file_name` with your own `json_file_name = "/home/kevin/.config/autokey/data/My Phrases/." + title + ".json`.
+3. Run the python script in AutoKey by pressing the green play button on the top bar
+4. Wait for about 2 minutes until the script finishes and restart AutoKey
+
 # Credits
 This project is heavily based on [emoji-to-ahk](https://github.com/alexmick/emoji-to-ahk) created by [alexmick](https://github.com/alexmick) and thank you [josephj11](https://github.com/josephj11) for teaching me how to use AutoKey.
 
